@@ -1,0 +1,344 @@
+#Single nouns
+Ncmsn Ncmsan Ncmsay Ncmsi
+Ncfsn Ncfsa Ncfsi
+Ncnsn Ncnsa Ncnsi
+Ncmpn Ncmpa Ncmpi
+Ncfpn Ncfpa Ncfpi
+Ncnpn Ncnpa Ncnpi
+Npmpn Npmpan Npmpay Npmpi
+Npfpn Npfpa Npfpi
+Npnpn Npnpa Npnpi
+Npmsn Npmsan Npmsay Npmsi
+Npfsn Npfsa Npfsi
+Npnsn Npnsa Npnsi
+
+#Single adjectives
+Agpfpay Agpfpiy Agpfpny Agpfsay Agpfsin Agpfsiy Agpfsny Agpmpay Agpmpiy Agpmpny Agpmsann Agpmsany Agpmsayn Agpmsayy Agpmsiy Agpmsnn Agpmsny Agpnpan Agpnpay Agpnpiy Agpnpny Agpnsay Agpnsiy Agpnsny
+Agcfpay Agcfpiy Agcfpny Agcfsay Agcfsiy Agcfsny Agcmpay Agcmpiy Agcmpny Agcmsany Agcmsayn Agcmsayy Agcmsiy Agcmsny Agcnpay Agcnpiy Agcnpny Agcnsay Agcnsiy Agcnsny
+Agsfpay Agsfpiy Agsfpny Agsfsay Agsfsiy Agsfsny Agsmpay Agsmpiy Agsmpny Agsmsany Agsmsayn Agsmsayy Agsmsgn Agsmsiy Agsmsny Agsnpay Agsnpiy Agsnpny Agsnsay Agsnsiy Agsnsny
+Aspfpay Aspfpiy Aspfpny Aspfsay Aspfsiy Aspfsny Aspmpay Aspmpiy Aspmpny Aspmsann Aspmsany Aspmsayy Aspmsdn Aspmsgn Aspmsiy Aspmsln Aspmsnn Aspmsvn Aspnpay Aspnpiy Aspnpny Aspnsay Aspnsdn Aspnsgn Aspnsiy Aspnsln Aspnsny
+Appfpay Appfpiy Appfpny Appfsay Appfsiy Appfsny Appmpay Appmpiy Appmpny Appmsann Appmsany Appmsayn Appmsayy Appmsdn Appmsgn Appmsiy Appmsln Appmsnn Appmsny Appmsvn Appnpay Appnpiy Appnpny Appnsay Appnsdn Appnsgn Appnsiy Appnsln Appnsny
+
+#adj-n #non-aggressive: For aggressive: add g,d,l
+Agcmsny__Ncmsn Agcmsayy__Ncmsay Agcmsayn__Ncmsan Agcmsiy__Ncmsi #the y and n at the end only happens for msa
+Agsmsny__Ncmsn Agsmsayy__Ncmsay Agsmsayn__Ncmsan Agsmsiy__Ncmsi
+Agpmsny__Ncmsn Agpmsayy__Ncmsay Agpmsayn__Ncmsan Agpmsiy__Ncmsi
+Aspmsny__Ncmsn Aspmsayy__Ncmsay Aspmsayn__Ncmsan Aspmsiy__Ncmsi
+Appmsny__Ncmsn Appmsayy__Ncmsay Appmsayn__Ncmsan Appmsiy__Ncmsi
+
+Agcmpny__Ncmpn Agcmpay__Ncmpa Agcmpiy__Ncmpi
+Agsmpny__Ncmpn Agsmpay__Ncmpa Agsmpiy__Ncmpi
+Agpmpny__Ncmpn Agpmpay__Ncmpa Agpmpiy__Ncmpi
+Aspmpny__Ncmpn Aspmpay__Ncmpa Aspmpiy__Ncmpi
+Appmpny__Ncmpn Appmpay__Ncmpa Appmpiy__Ncmpi
+
+Agcfsny__Ncfsn Agcfsay__Ncfsa Agcfsiy__Ncfsi
+Agsfsny__Ncfsn Agsfsay__Ncfsa Agsfsiy__Ncfsi
+Agpfsny__Ncfsn Agpfsay__Ncfsa Agpfsiy__Ncfsi
+Aspfsny__Ncfsn Aspfsay__Ncfsa Aspfsiy__Ncfsi
+Appfsny__Ncfsn Appfsay__Ncfsa Appfsiy__Ncfsi
+
+Agcfpny__Ncfpn Agcfpay__Ncfpa Agcfpiy__Ncfpi
+Agsfpny__Ncfpn Agsfpay__Ncfpa Agsfpiy__Ncfpi
+Agpfpny__Ncfpn Agpfpay__Ncfpa Agpfpiy__Ncfpi
+Aspfpny__Ncfpn Aspfpay__Ncfpa Aspfpiy__Ncfpi
+Appfpny__Ncfpn Appfpay__Ncfpa Appfpiy__Ncfpi
+
+Agcnsny__Ncnsn Agcnsay__Ncnsa Agcnsiy__Ncnsi
+Agsnsny__Ncnsn Agsnsay__Ncnsa Agsnsiy__Ncnsi
+Agpnsny__Ncnsn Agpnsay__Ncnsa Agpnsiy__Ncnsi
+Aspnsny__Ncnsn Aspnsay__Ncnsa Aspnsiy__Ncnsi
+Appnsny__Ncnsn Appnsay__Ncnsa Appnsiy__Ncnsi
+
+Agcnpny__Ncnpn Agcnpay__Ncnpa Agcnpiy__Ncnpi
+Agsnpny__Ncnpn Agsnpay__Ncnpa Agsnpiy__Ncnpi
+Agpnpny__Ncnpn Agpnpay__Ncnpa Agpnpiy__Ncnpi
+Aspnpny__Ncnpn Aspnpay__Ncnpa Aspnpiy__Ncnpi
+Appnpny__Ncnpn Appnpay__Ncnpa Appnpiy__Ncnpi
+
+Agcmsnn__Ncmsn Agcmsany__Ncmsay Agcmsann__Ncmsan Agcmsin__Ncmsi #the y and n at the end only happens for msa
+Agsmsnn__Ncmsn Agsmsany__Ncmsay Agsmsann__Ncmsan Agsmsin__Ncmsi
+Agpmsnn__Ncmsn Agpmsany__Ncmsay Agpmsann__Ncmsan Agpmsin__Ncmsi
+Aspmsnn__Ncmsn Aspmsany__Ncmsay Aspmsann__Ncmsan Aspmsin__Ncmsi
+Appmsnn__Ncmsn Appmsany__Ncmsay Appmsann__Ncmsan Appmsin__Ncmsi
+
+Agcmpnn__Ncmpn Agcmpan__Ncmpa Agcmpin__Ncmpi
+Agsmpnn__Ncmpn Agsmpan__Ncmpa Agsmpin__Ncmpi
+Agpmpnn__Ncmpn Agpmpan__Ncmpa Agpmpin__Ncmpi
+Aspmpnn__Ncmpn Aspmpan__Ncmpa Aspmpin__Ncmpi
+Appmpnn__Ncmpn Appmpan__Ncmpa Appmpin__Ncmpi
+
+Agcfsnn__Ncfsn Agcfsan__Ncfsa Agcfsin__Ncfsi
+Agsfsnn__Ncfsn Agsfsan__Ncfsa Agsfsin__Ncfsi
+Agpfsnn__Ncfsn Agpfsan__Ncfsa Agpfsin__Ncfsi
+Aspfsnn__Ncfsn Aspfsan__Ncfsa Aspfsin__Ncfsi
+Appfsnn__Ncfsn Appfsan__Ncfsa Appfsin__Ncfsi
+
+Agcfpnn__Ncfpn Agcfpan__Ncfpa Agcfpin__Ncfpi
+Agsfpnn__Ncfpn Agsfpan__Ncfpa Agsfpin__Ncfpi
+Agpfpnn__Ncfpn Agpfpan__Ncfpa Agpfpin__Ncfpi
+Aspfpnn__Ncfpn Aspfpan__Ncfpa Aspfpin__Ncfpi
+Appfpnn__Ncfpn Appfpan__Ncfpa Appfpin__Ncfpi
+
+Agcnsnn__Ncnsn Agcnsan__Ncnsa Agcnsin__Ncnsi
+Agsnsnn__Ncnsn Agsnsan__Ncnsa Agsnsin__Ncnsi
+Agpnsnn__Ncnsn Agpnsan__Ncnsa Agpnsin__Ncnsi
+Aspnsnn__Ncnsn Aspnsan__Ncnsa Aspnsin__Ncnsi
+Appnsnn__Ncnsn Appnsan__Ncnsa Appnsin__Ncnsi
+
+Agcnpnn__Ncnpn Agcnpan__Ncnpa Agcnpin__Ncnpi
+Agsnpnn__Ncnpn Agsnpan__Ncnpa Agsnpin__Ncnpi
+Agpnpnn__Ncnpn Agpnpan__Ncnpa Agpnpin__Ncnpi
+Aspnpnn__Ncnpn Aspnpan__Ncnpa Aspnpin__Ncnpi
+Appnpnn__Ncnpn Appnpan__Ncnpa Appnpin__Ncnpi
+
+
+#The same for adj,adj,n: still only non-aggressive
+Agcmsny__Agcmsny__Ncmsn Agcmsayy__Agcmsayy__Ncmsay Agcmsayn__Agcmsayn__Ncmsan Agcmsiy__Agcmsiy__Ncmsi
+Agsmsny__Agsmsny__Ncmsn Agsmsayy__Agsmsayy__Ncmsay Agsmsayn__Agsmsayn__Ncmsan Agsmsiy__Agsmsiy__Ncmsi
+Agpmsny__Agpmsny__Ncmsn Agpmsayy__Agpmsayy__Ncmsay Agpmsayn__Agpmsayn__Ncmsan Agpmsiy__Agpmsiy__Ncmsi
+Aspmsny__Aspmsny__Ncmsn Aspmsayy__Aspmsayy__Ncmsay Aspmsayn__Aspmsayn__Ncmsan Aspmsiy__Aspmsiy__Ncmsi
+Appmsny__Appmsny__Ncmsn Appmsayy__Appmsayy__Ncmsay Appmsayn__Appmsayn__Ncmsan Appmsiy__Appmsiy__Ncmsi
+
+Agcmpny__Agcmpny__Ncmpn Agcmpay__Agcmpay__Ncmpa Agcmpiy__Agcmpiy__Ncmpi
+Agsmpny__Agsmpny__Ncmpn Agsmpay__Agsmpay__Ncmpa Agsmpiy__Agsmpiy__Ncmpi
+Agpmpny__Agpmpny__Ncmpn Agpmpay__Agpmpay__Ncmpa Agpmpiy__Agpmpiy__Ncmpi
+Aspmpny__Aspmpny__Ncmpn Aspmpay__Aspmpay__Ncmpa Aspmpiy__Aspmpiy__Ncmpi
+Appmpny__Appmpny__Ncmpn Appmpay__Appmpay__Ncmpa Appmpiy__Appmpiy__Ncmpi
+
+Agcfsny__Agcfsny__Ncfsn Agcfsay__Agcfsay__Ncfsa Agcfsiy__Agcfsiy__Ncfsi
+Agsfsny__Agsfsny__Ncfsn Agsfsay__Agsfsay__Ncfsa Agsfsiy__Agsfsiy__Ncfsi
+Agpfsny__Agpfsny__Ncfsn Agpfsay__Agpfsay__Ncfsa Agpfsiy__Agpfsiy__Ncfsi
+Aspfsny__Aspfsny__Ncfsn Aspfsay__Aspfsay__Ncfsa Aspfsiy__Aspfsiy__Ncfsi
+Appfsny__Appfsny__Ncfsn Appfsay__Appfsay__Ncfsa Appfsiy__Appfsiy__Ncfsi
+
+Agcfpny__Agcfpny__Ncfpn Agcfpay__Agcfpay__Ncfpa Agcfpiy__Agcfpiy__Ncfpi
+Agsfpny__Agsfpny__Ncfpn Agsfpay__Agsfpay__Ncfpa Agsfpiy__Agsfpiy__Ncfpi
+Agpfpny__Agpfpny__Ncfpn Agpfpay__Agpfpay__Ncfpa Agpfpiy__Agpfpiy__Ncfpi
+Aspfpny__Aspfpny__Ncfpn Aspfpay__Aspfpay__Ncfpa Aspfpiy__Aspfpiy__Ncfpi
+Appfpny__Appfpny__Ncfpn Appfpay__Appfpay__Ncfpa Appfpiy__Appfpiy__Ncfpi
+
+Agcnsny__Agcnsny__Ncnsn Agcnsay__Agcnsay__Ncnsa Agcnsiy__Agcnsiy__Ncnsi
+Agsnsny__Agsnsny__Ncnsn Agsnsay__Agsnsay__Ncnsa Agsnsiy__Agsnsiy__Ncnsi
+Agpnsny__Agpnsny__Ncnsn Agpnsay__Agpnsay__Ncnsa Agpnsiy__Agpnsiy__Ncnsi
+Aspnsny__Aspnsny__Ncnsn Aspnsay__Aspnsay__Ncnsa Aspnsiy__Aspnsiy__Ncnsi
+Appnsny__Appnsny__Ncnsn Appnsay__Appnsay__Ncnsa Appnsiy__Appnsiy__Ncnsi
+
+Agcnpny__Agcnpny__Ncnpn Agcnpay__Agcnpay__Ncnpa Agcnpiy__Agcnpiy__Ncnpi
+Agsnpny__Agsnpny__Ncnpn Agsnpay__Agsnpay__Ncnpa Agsnpiy__Agsnpiy__Ncnpi
+Agpnpny__Agpnpny__Ncnpn Agpnpay__Agpnpay__Ncnpa Agpnpiy__Agpnpiy__Ncnpi
+Aspnpny__Aspnpny__Ncnpn Aspnpay__Aspnpay__Ncnpa Aspnpiy__Aspnpiy__Ncnpi
+Appnpny__Appnpny__Ncnpn Appnpay__Appnpay__Ncnpa Appnpiy__Appnpiy__Ncnpi
+
+Agcmsnn__Agcmsnn__Ncmsn Agcmsany__Agcmsany__Ncmsay Agcmsann__Agcmsann__Ncmsan Agcmsin__Agcmsin__Ncmsi
+Agsmsnn__Agsmsnn__Ncmsn Agsmsany__Agsmsany__Ncmsay Agsmsann__Agsmsann__Ncmsan Agsmsin__Agsmsin__Ncmsi
+Agpmsnn__Agpmsnn__Ncmsn Agpmsany__Agpmsany__Ncmsay Agpmsann__Agpmsann__Ncmsan Agpmsin__Agpmsin__Ncmsi
+Aspmsnn__Aspmsnn__Ncmsn Aspmsany__Aspmsany__Ncmsay Aspmsann__Aspmsann__Ncmsan Aspmsin__Aspmsin__Ncmsi
+Appmsnn__Appmsnn__Ncmsn Appmsany__Appmsany__Ncmsay Appmsann__Appmsann__Ncmsan Appmsin__Appmsin__Ncmsi
+
+Agcmpnn__Agcmpnn__Ncmpn Agcmpan__Agcmpan__Ncmpa Agcmpin__Agcmpin__Ncmpi
+Agsmpnn__Agsmpnn__Ncmpn Agsmpan__Agsmpan__Ncmpa Agsmpin__Agsmpin__Ncmpi
+Agpmpnn__Agpmpnn__Ncmpn Agpmpan__Agpmpan__Ncmpa Agpmpin__Agpmpin__Ncmpi
+Aspmpnn__Aspmpnn__Ncmpn Aspmpan__Aspmpan__Ncmpa Aspmpin__Aspmpin__Ncmpi
+Appmpnn__Appmpnn__Ncmpn Appmpan__Appmpan__Ncmpa Appmpin__Appmpin__Ncmpi
+
+Agcfsnn__Agcfsnn__Ncfsn Agcfsan__Agcfsan__Ncfsa Agcfsin__Agcfsin__Ncfsi
+Agsfsnn__Agsfsnn__Ncfsn Agsfsan__Agsfsan__Ncfsa Agsfsin__Agsfsin__Ncfsi
+Agpfsnn__Agpfsnn__Ncfsn Agpfsan__Agpfsan__Ncfsa Agpfsin__Agpfsin__Ncfsi
+Aspfsnn__Aspfsnn__Ncfsn Aspfsan__Aspfsan__Ncfsa Aspfsin__Aspfsin__Ncfsi
+Appfsnn__Appfsnn__Ncfsn Appfsan__Appfsan__Ncfsa Appfsin__Appfsin__Ncfsi
+
+Agcfpnn__Agcfpnn__Ncfpn Agcfpan__Agcfpan__Ncfpa Agcfpin__Agcfpin__Ncfpi
+Agsfpnn__Agsfpnn__Ncfpn Agsfpan__Agsfpan__Ncfpa Agsfpin__Agsfpin__Ncfpi
+Agpfpnn__Agpfpnn__Ncfpn Agpfpan__Agpfpan__Ncfpa Agpfpin__Agpfpin__Ncfpi
+Aspfpnn__Aspfpnn__Ncfpn Aspfpan__Aspfpan__Ncfpa Aspfpin__Aspfpin__Ncfpi
+Appfpnn__Appfpnn__Ncfpn Appfpan__Appfpan__Ncfpa Appfpin__Appfpin__Ncfpi
+
+Agcnsnn__Agcnsnn__Ncnsn Agcnsan__Agcnsan__Ncnsa Agcnsin__Agcnsin__Ncnsi
+Agsnsnn__Agsnsnn__Ncnsn Agsnsan__Agsnsan__Ncnsa Agsnsin__Agsnsin__Ncnsi
+Agpnsnn__Agpnsnn__Ncnsn Agpnsan__Agpnsan__Ncnsa Agpnsin__Agpnsin__Ncnsi
+Aspnsnn__Aspnsnn__Ncnsn Aspnsan__Aspnsan__Ncnsa Aspnsin__Aspnsin__Ncnsi
+Appnsnn__Appnsnn__Ncnsn Appnsan__Appnsan__Ncnsa Appnsin__Appnsin__Ncnsi
+
+Agcnpnn__Agcnpnn__Ncnpn Agcnpan__Agcnpan__Ncnpa Agcnpin__Agcnpin__Ncnpi
+Agsnpnn__Agsnpnn__Ncnpn Agsnpan__Agsnpan__Ncnpa Agsnpin__Agsnpin__Ncnpi
+Agpnpnn__Agpnpnn__Ncnpn Agpnpan__Agpnpan__Ncnpa Agpnpin__Agpnpin__Ncnpi
+Aspnpnn__Aspnpnn__Ncnpn Aspnpan__Aspnpan__Ncnpa Aspnpin__Aspnpin__Ncnpi
+Appnpnn__Appnpnn__Ncnpn Appnpan__Appnpan__Ncnpa Appnpin__Appnpin__Ncnpi
+
+#vlasnik|Ncmsn bara|Ncmsg #only non-aggressive
+Ncfpn__Ncmsg Ncfpa__Ncmsg Ncfpi__Ncmsg
+Ncfpn__Ncfsg Ncfpa__Ncfsg Ncfpi__Ncfsg
+Ncfpn__Ncnsg Ncfpa__Ncnsg Ncfpi__Ncnsg
+Ncfpn__Ncmpg Ncfpa__Ncmpg Ncfpi__Ncmpg
+Ncfpn__Ncfpg Ncfpa__Ncfpg Ncfpi__Ncfpg
+Ncfpn__Ncnpg Ncfpa__Ncnpg Ncfpi__Ncnpg
+Ncfsn__Ncmsg Ncfsa__Ncmsg Ncfsi__Ncmsg
+Ncfsn__Ncfsg Ncfsa__Ncfsg Ncfsi__Ncfsg
+Ncfsn__Ncnsg Ncfsa__Ncnsg Ncfsi__Ncnsg
+Ncfsn__Ncmpg Ncfsa__Ncmpg Ncfsi__Ncmpg
+Ncfsn__Ncfpg Ncfsa__Ncfpg Ncfsi__Ncfpg
+Ncfsn__Ncnpg Ncfsa__Ncnpg Ncfsi__Ncnpg
+Ncmpn__Ncmsg Ncmpa__Ncmsg Ncmpi__Ncmsg
+Ncmpn__Ncfsg Ncmpa__Ncfsg Ncmpi__Ncfsg
+Ncmpn__Ncnsg Ncmpa__Ncnsg Ncmpi__Ncnsg
+Ncmpn__Ncmpg Ncmpa__Ncmpg Ncmpi__Ncmpg
+Ncmpn__Ncfpg Ncmpa__Ncfpg Ncmpi__Ncfpg
+Ncmpn__Ncnpg Ncmpa__Ncnpg Ncmpi__Ncnpg
+Ncmsn__Ncmsg Ncmsay__Ncmsg Ncmsan__Ncmsg Ncmsi__Ncmsg
+Ncmsn__Ncfsg Ncmsay__Ncfsg Ncmsan__Ncfsg Ncmsi__Ncfsg
+Ncmsn__Ncnsg Ncmsay__Ncnsg Ncmsan__Ncnsg Ncmsi__Ncnsg
+Ncmsn__Ncmpg Ncmsay__Ncmpg Ncmsan__Ncmpg Ncmsi__Ncmpg
+Ncmsn__Ncfpg Ncmsay__Ncfpg Ncmsan__Ncfpg Ncmsi__Ncfpg
+Ncmsn__Ncnpg Ncmsay__Ncnpg Ncmsan__Ncnpg Ncmsi__Ncnpg
+Ncnpn__Ncmsg Ncnpa__Ncmsg Ncnpi__Ncmsg
+Ncnpn__Ncfsg Ncnpa__Ncfsg Ncnpi__Ncfsg
+Ncnpn__Ncnsg Ncnpa__Ncnsg Ncnpi__Ncnsg
+Ncnpn__Ncmpg Ncnpa__Ncmpg Ncnpi__Ncmpg
+Ncnpn__Ncfpg Ncnpa__Ncfpg Ncnpi__Ncfpg
+Ncnpn__Ncnpg Ncnpa__Ncnpg Ncnpi__Ncnpg
+Ncnsn__Ncmsg Ncnsa__Ncmsg Ncnsi__Ncmsg
+Ncnsn__Ncfsg Ncnsa__Ncfsg Ncnsi__Ncfsg
+Ncnsn__Ncnsg Ncnsa__Ncnsg Ncnsi__Ncnsg
+Ncnsn__Ncmpg Ncnsa__Ncmpg Ncnsi__Ncmpg
+Ncnsn__Ncfpg Ncnsa__Ncfpg Ncnsi__Ncfpg
+Ncnsn__Ncnpg Ncnsa__Ncnpg Ncnsi__Ncnpg
+
+#Ncfsg Cc Ncfsg -> they agree only in case and number (we change the case)
+Ncmpn__Cc__Ncfpn Ncmpa__Cc__Ncfpa Ncmpi__Cc__Ncfpi
+Ncfsn__Cc__Ncfsn Ncfsa__Cc__Ncfsa Ncfsi__Cc__Ncfsi
+Ncfsn__Cc__Ncmsn Ncfsa__Cc__Ncmsan Ncfsa__Cc__Ncmsay Ncfsi__Cc__Ncmsi
+Ncmsn__Cc__Ncmsn Ncmsan__Cc__Ncmsan Ncmsan__Cc__Ncmsay Ncmsay__Cc__Ncmsan Ncmsay__Cc__Ncmsay Ncmsi__Cc__Ncmsi
+Ncmsn__Cc__Ncfsn Ncmsan__Cc__Ncfsa Ncmsay__Cc__Ncfsa Ncmsi__Cc__Ncfsi
+Ncmpn__Cc__Ncmpn Ncmpa__Cc__Ncmpa Ncmpi__Cc__Ncmpi
+Ncnpn__Cc__Ncnpn Ncnpa__Cc__Ncnpa Ncnpi__Cc__Ncnpi
+Ncnsn__Cc__Ncfsn Ncnsa__Cc__Ncfsa Ncnsi__Cc__Ncfsi
+Ncnsn__Cc__Ncmsn Ncnsa__Cc__Ncmsan Ncnsa__Cc__Ncmsay Ncnsi__Cc__Ncmsi
+Ncfpn__Cc__Ncnpn Ncfpa__Cc__Ncnpa Ncfpi__Cc__Ncnpi
+Ncmsn__Cc__Ncnsn Ncmsan__Cc__Ncnsa Ncmsay__Cc__Ncnsa Ncmsi__Cc__Ncnsi
+Ncfpn__Cc__Ncmpn Ncfpa__Cc__Ncmpa Ncfpi__Cc__Ncmpi
+Ncnsn__Cc__Ncnsn Ncnsa__Cc__Ncnsa Ncnsi__Cc__Ncnsi
+Ncnpn__Cc__Ncmpn Ncnpa__Cc__Ncmpa Ncnpi__Cc__Ncmpi
+Ncmpn__Cc__Ncnpn Ncmpa__Cc__Ncnpa Ncmpi__Cc__Ncnpi
+Ncnpn__Cc__Ncfpn Ncnpa__Cc__Ncfpa Ncnpi__Cc__Ncfpi
+Ncfsn__Cc__Ncnsn Ncfsa__Cc__Ncnsa Ncfsi__Cc__Ncnsi
+Ncfpn__Cc__Ncfpn Ncfpa__Cc__Ncfpa Ncfpi__Cc__Ncfpi
+
+#verbs: only timid at the moment
+Vmr1s Vmr2s Vmr1p Vmr2p Vmr3p
+Vmr1s-y Vmr2s-y Vmr1p-y Vmr2p-y Vmr3p-y
+Vma1p Vma1s Vma2p Vma2s Vma3p Vma3s
+Vme1p-y Vme1s-y Vme2p-y Vme2s-y Vme3p-y Vme3s-y
+Vme1p Vme1s Vme2p Vme2s Vme3p Vme3s
+Vmm2p Vmm2s
+Vmm2p-y Vmm2s-y
+Vmp-pf Vmp-pm Vmp-pn Vmp-sf Vmp-sm Vmp-sn
+Vmp-pfy Vmp-pmy Vmp-pny Vmp-sfy Vmp-smy Vmp-sny
+
+#Vmr3s Ncfsa -> case is always acccusative, gender and number of noun can vary, as well as person and number of the verb (they don¡t need to agree).
+#we generate all possible combinations of (person and number of verb)
+#this has been done for timid verb combination
+Vmr1s__Ncmsan Vmr2s__Ncmsan Vmr1p__Ncmsan Vmr2p__Ncmsan Vmr3p__Ncmsan
+Vmr1s-y__Ncmsan Vmr2s-y__Ncmsan Vmr1p-y__Ncmsan Vmr2p-y__Ncmsan Vmr3p-y__Ncmsan
+Vma1p__Ncmsan Vma1s__Ncmsan Vma2p__Ncmsan Vma2s__Ncmsan Vma3p__Ncmsan Vma3s__Ncmsan
+Vme1p-y__Ncmsan Vme1s-y__Ncmsan Vme2p-y__Ncmsan Vme2s-y__Ncmsan Vme3p-y__Ncmsan Vme3s-y__Ncmsan
+Vme1p__Ncmsan Vme1s__Ncmsan Vme2p__Ncmsan Vme2s__Ncmsan Vme3p__Ncmsan Vme3s__Ncmsan
+Vmm2p__Ncmsan Vmm2s__Ncmsan
+Vmm2p-y__Ncmsan Vmm2s-y__Ncmsan
+Vmp-pf__Ncmsan Vmp-pm__Ncmsan Vmp-pn__Ncmsan Vmp-sf__Ncmsan Vmp-sm__Ncmsan Vmp-sn__Ncmsan
+Vmp-pfy__Ncmsan Vmp-pmy__Ncmsan Vmp-pny__Ncmsan Vmp-sfy__Ncmsan Vmp-smy__Ncmsan Vmp-sny__Ncmsan
+Vmr1s__Ncmsay Vmr2s__Ncmsay Vmr1p__Ncmsay Vmr2p__Ncmsay Vmr3p__Ncmsay
+Vmr1s-y__Ncmsay Vmr2s-y__Ncmsay Vmr1p-y__Ncmsay Vmr2p-y__Ncmsay Vmr3p-y__Ncmsay
+Vma1p__Ncmsay Vma1s__Ncmsay Vma2p__Ncmsay Vma2s__Ncmsay Vma3p__Ncmsay Vma3s__Ncmsay
+Vme1p-y__Ncmsay Vme1s-y__Ncmsay Vme2p-y__Ncmsay Vme2s-y__Ncmsay Vme3p-y__Ncmsay Vme3s-y__Ncmsay
+Vme1p__Ncmsay Vme1s__Ncmsay Vme2p__Ncmsay Vme2s__Ncmsay Vme3p__Ncmsay Vme3s__Ncmsay
+Vmm2p__Ncmsay Vmm2s__Ncmsay
+Vmm2p-y__Ncmsay Vmm2s-y__Ncmsay
+Vmp-pf__Ncmsay Vmp-pm__Ncmsay Vmp-pn__Ncmsay Vmp-sf__Ncmsay Vmp-sm__Ncmsay Vmp-sn__Ncmsay
+Vmp-pfy__Ncmsay Vmp-pmy__Ncmsay Vmp-pny__Ncmsay Vmp-sfy__Ncmsay Vmp-smy__Ncmsay Vmp-sny__Ncmsay
+Vmr1s__Ncfsa Vmr2s__Ncfsa Vmr1p__Ncfsa Vmr2p__Ncfsa Vmr3p__Ncfsa
+Vmr1s-y__Ncfsa Vmr2s-y__Ncfsa Vmr1p-y__Ncfsa Vmr2p-y__Ncfsa Vmr3p-y__Ncfsa
+Vma1p__Ncfsa Vma1s__Ncfsa Vma2p__Ncfsa Vma2s__Ncfsa Vma3p__Ncfsa Vma3s__Ncfsa
+Vme1p-y__Ncfsa Vme1s-y__Ncfsa Vme2p-y__Ncfsa Vme2s-y__Ncfsa Vme3p-y__Ncfsa Vme3s-y__Ncfsa
+Vme1p__Ncfsa Vme1s__Ncfsa Vme2p__Ncfsa Vme2s__Ncfsa Vme3p__Ncfsa Vme3s__Ncfsa
+Vmm2p__Ncfsa Vmm2s__Ncfsa
+Vmm2p-y__Ncfsa Vmm2s-y__Ncfsa
+Vmp-pf__Ncfsa Vmp-pm__Ncfsa Vmp-pn__Ncfsa Vmp-sf__Ncfsa Vmp-sm__Ncfsa Vmp-sn__Ncfsa
+Vmp-pfy__Ncfsa Vmp-pmy__Ncfsa Vmp-pny__Ncfsa Vmp-sfy__Ncfsa Vmp-smy__Ncfsa Vmp-sny__Ncfsa
+Vmr1s__Ncnsa Vmr2s__Ncnsa Vmr1p__Ncnsa Vmr2p__Ncnsa Vmr3p__Ncnsa
+Vmr1s-y__Ncnsa Vmr2s-y__Ncnsa Vmr1p-y__Ncnsa Vmr2p-y__Ncnsa Vmr3p-y__Ncnsa
+Vma1p__Ncnsa Vma1s__Ncnsa Vma2p__Ncnsa Vma2s__Ncnsa Vma3p__Ncnsa Vma3s__Ncnsa
+Vme1p-y__Ncnsa Vme1s-y__Ncnsa Vme2p-y__Ncnsa Vme2s-y__Ncnsa Vme3p-y__Ncnsa Vme3s-y__Ncnsa
+Vme1p__Ncnsa Vme1s__Ncnsa Vme2p__Ncnsa Vme2s__Ncnsa Vme3p__Ncnsa Vme3s__Ncnsa
+Vmm2p__Ncnsa Vmm2s__Ncnsa
+Vmm2p-y__Ncnsa Vmm2s-y__Ncnsa
+Vmp-pf__Ncnsa Vmp-pm__Ncnsa Vmp-pn__Ncnsa Vmp-sf__Ncnsa Vmp-sm__Ncnsa Vmp-sn__Ncnsa
+Vmp-pfy__Ncnsa Vmp-pmy__Ncnsa Vmp-pny__Ncnsa Vmp-sfy__Ncnsa Vmp-smy__Ncnsa Vmp-sny__Ncnsa
+Vmr1s__Ncmpa Vmr2s__Ncmpa Vmr1p__Ncmpa Vmr2p__Ncmpa Vmr3p__Ncmpa
+Vmr1s-y__Ncmpa Vmr2s-y__Ncmpa Vmr1p-y__Ncmpa Vmr2p-y__Ncmpa Vmr3p-y__Ncmpa
+Vma1p__Ncmpa Vma1s__Ncmpa Vma2p__Ncmpa Vma2s__Ncmpa Vma3p__Ncmpa Vma3s__Ncmpa
+Vme1p-y__Ncmpa Vme1s-y__Ncmpa Vme2p-y__Ncmpa Vme2s-y__Ncmpa Vme3p-y__Ncmpa Vme3s-y__Ncmpa
+Vme1p__Ncmpa Vme1s__Ncmpa Vme2p__Ncmpa Vme2s__Ncmpa Vme3p__Ncmpa Vme3s__Ncmpa
+Vmm2p__Ncmpa Vmm2s__Ncmpa
+Vmm2p-y__Ncmpa Vmm2s-y__Ncmpa
+Vmp-pf__Ncmpa Vmp-pm__Ncmpa Vmp-pn__Ncmpa Vmp-sf__Ncmpa Vmp-sm__Ncmpa Vmp-sn__Ncmpa
+Vmp-pfy__Ncmpa Vmp-pmy__Ncmpa Vmp-pny__Ncmpa Vmp-sfy__Ncmpa Vmp-smy__Ncmpa Vmp-sny__Ncmpa
+Vmr1s__Ncfpa Vmr2s__Ncfpa Vmr1p__Ncfpa Vmr2p__Ncfpa Vmr3p__Ncfpa
+Vmr1s-y__Ncfpa Vmr2s-y__Ncfpa Vmr1p-y__Ncfpa Vmr2p-y__Ncfpa Vmr3p-y__Ncfpa
+Vma1p__Ncfpa Vma1s__Ncfpa Vma2p__Ncfpa Vma2s__Ncfpa Vma3p__Ncfpa Vma3s__Ncfpa
+Vme1p-y__Ncfpa Vme1s-y__Ncfpa Vme2p-y__Ncfpa Vme2s-y__Ncfpa Vme3p-y__Ncfpa Vme3s-y__Ncfpa
+Vme1p__Ncfpa Vme1s__Ncfpa Vme2p__Ncfpa Vme2s__Ncfpa Vme3p__Ncfpa Vme3s__Ncfpa
+Vmm2p__Ncfpa Vmm2s__Ncfpa
+Vmm2p-y__Ncfpa Vmm2s-y__Ncfpa
+Vmp-pf__Ncfpa Vmp-pm__Ncfpa Vmp-pn__Ncfpa Vmp-sf__Ncfpa Vmp-sm__Ncfpa Vmp-sn__Ncfpa
+Vmp-pfy__Ncfpa Vmp-pmy__Ncfpa Vmp-pny__Ncfpa Vmp-sfy__Ncfpa Vmp-smy__Ncfpa Vmp-sny__Ncfpa
+Vmr1s__Ncnpa Vmr2s__Ncnpa Vmr1p__Ncnpa Vmr2p__Ncnpa Vmr3p__Ncnpa
+Vmr1s-y__Ncnpa Vmr2s-y__Ncnpa Vmr1p-y__Ncnpa Vmr2p-y__Ncnpa Vmr3p-y__Ncnpa
+Vma1p__Ncnpa Vma1s__Ncnpa Vma2p__Ncnpa Vma2s__Ncnpa Vma3p__Ncnpa Vma3s__Ncnpa
+Vme1p-y__Ncnpa Vme1s-y__Ncnpa Vme2p-y__Ncnpa Vme2s-y__Ncnpa Vme3p-y__Ncnpa Vme3s-y__Ncnpa
+Vme1p__Ncnpa Vme1s__Ncnpa Vme2p__Ncnpa Vme2s__Ncnpa Vme3p__Ncnpa Vme3s__Ncnpa
+Vmm2p__Ncnpa Vmm2s__Ncnpa
+Vmm2p-y__Ncnpa Vmm2s-y__Ncnpa
+Vmp-pf__Ncnpa Vmp-pm__Ncnpa Vmp-pn__Ncnpa Vmp-sf__Ncnpa Vmp-sm__Ncnpa Vmp-sn__Ncnpa
+Vmp-pfy__Ncnpa Vmp-pmy__Ncnpa Vmp-pny__Ncnpa Vmp-sfy__Ncnpa Vmp-smy__Ncnpa Vmp-sny__Ncnpa
+
+#Rgp Vmr3s -> change verbs as in verb list
+Rgp__Vmr1s Rgp__Vmr2s Rgp__Vmr1p Rgp__Vmr2p Rgp__Vmr3p
+Rgp__Vmr1s-y Rgp__Vmr2s-y Rgp__Vmr1p-y Rgp__Vmr2p-y Rgp__Vmr3p-y
+Rgp__Vma1p Rgp__Vma1s Rgp__Vma2p Rgp__Vma2s Rgp__Vma3p Rgp__Vma3s
+Rgp__Vme1p-y Rgp__Vme1s-y Rgp__Vme2p-y Rgp__Vme2s-y Rgp__Vme3p-y Rgp__Vme3s-y
+Rgp__Vme1p Rgp__Vme1s Rgp__Vme2p Rgp__Vme2s Rgp__Vme3p Rgp__Vme3s
+Rgp__Vmm2p Rgp__Vmm2s
+Rgp__Vmm2p-y Rgp__Vmm2s-y
+Rgp__Vmp-pf Rgp__Vmp-pm Rgp__Vmp-pn Rgp__Vmp-sf Rgp__Vmp-sm Rgp__Vmp-sn
+Rgp__Vmp-pfy Rgp__Vmp-pmy Rgp__Vmp-pny Rgp__Vmp-sfy Rgp__Vmp-smy Rgp__Vmp-sny
+
+#Px--sa Vmr3s -> change verbs as in verb list
+Px--sa__Vmr1s Px--sa__Vmr2s Px--sa__Vmr1p Px--sa__Vmr2p Px--sa__Vmr3p
+Px--sa__Vmr1s-y Px--sa__Vmr2s-y Px--sa__Vmr1p-y Px--sa__Vmr2p-y Px--sa__Vmr3p-y
+Px--sa__Vma1p Px--sa__Vma1s Px--sa__Vma2p Px--sa__Vma2s Px--sa__Vma3p Px--sa__Vma3s
+Px--sa__Vme1p-y Px--sa__Vme1s-y Px--sa__Vme2p-y Px--sa__Vme2s-y Px--sa__Vme3p-y Px--sa__Vme3s-y
+Px--sa__Vme1p Px--sa__Vme1s Px--sa__Vme2p Px--sa__Vme2s Px--sa__Vme3p Px--sa__Vme3s
+Px--sa__Vmm2p Px--sa__Vmm2s
+Px--sa__Vmm2p-y Px--sa__Vmm2s-y
+Px--sa__Vmp-pf Px--sa__Vmp-pm Px--sa__Vmp-pn Px--sa__Vmp-sf Px--sa__Vmp-sm Px--sa__Vmp-sn
+Px--sa__Vmp-pfy Px--sa__Vmp-pmy Px--sa__Vmp-pny Px--sa__Vmp-sfy Px--sa__Vmp-smy Px--sa__Vmp-sny
+
+#Vmr3s Px--sa
+Vmr1s__Px--sa Vmr2s__Px--sa Vmr1p__Px--sa Vmr2p__Px--sa Vmr3p__Px--sa
+Vmr1s-y__Px--sa Vmr2s-y__Px--sa Vmr1p-y__Px--sa Vmr2p-y__Px--sa Vmr3p-y__Px--sa
+Vma1p__Px--sa Vma1s__Px--sa Vma2p__Px--sa Vma2s__Px--sa Vma3p__Px--sa Vma3s__Px--sa
+Vme1p-y__Px--sa Vme1s-y__Px--sa Vme2p-y__Px--sa Vme2s-y__Px--sa Vme3p-y__Px--sa Vme3s-y__Px--sa
+Vme1p__Px--sa Vme1s__Px--sa Vme2p__Px--sa Vme2s__Px--sa Vme3p__Px--sa Vme3s__Px--sa
+Vmm2p__Px--sa Vmm2s__Px--sa
+Vmm2p-y__Px--sa Vmm2s-y__Px--sa
+Vmp-pf__Px--sa Vmp-pm__Px--sa Vmp-pn__Px--sa Vmp-sf__Px--sa Vmp-sm__Px--sa Vmp-sn__Px--sa
+Vmp-pfy__Px--sa Vmp-pmy__Px--sa Vmp-pny__Px--sa Vmp-sfy__Px--sa Vmp-smy__Px--sa Vmp-sny__Px--sa
+
+#Vmp-s[m]gender Var[3s](all the combinations of person and number) -> change gender of participle and person/number of auxiliary
+Vmp-sm__Var1s Vmp-sf__Var1s Vmp-sn__Var1s Vmp-sm__Var2s Vmp-sf__Var2s Vmp-sn__Var2s Vmp-pm__Var1p Vmp-pf__Var1p Vmp-pn__Var1p Vmp-pm__Var2p Vmp-pf__Var2p Vmp-pn__Var2p Vmp-pm__Var3p Vmp-pf__Var3p Vmp-pn__Var3p
+Vmp-sm__Var1s-y Vmp-sf__Var1s-y Vmp-sn__Var1s-y Vmp-sm__Var2s-y Vmp-sf__Var2s-y Vmp-sn__Var2s-y Vmp-pm__Var1p-y Vmp-pf__Var1p-y Vmp-pn__Var1p-y Vmp-pm__Var2p-y Vmp-pf__Var2p-y Vmp-pn__Var2p-y Vmp-pm__Var3p-y Vmp-pf__Var3p-y Vmp-pn__Var3p-y
+
+#Var3s Vmp-sm _> (same as above)
+Var1s__Vmp-sm Var1s__Vmp-sf Var1s__Vmp-sn Var2s__Vmp-sm Var2s__Vmp-sf Var2s__Vmp-sn Var1p__Vmp-pm Var1p__Vmp-pf Var1p__Vmp-pn Var2p__Vmp-pm Var2p__Vmp-pf Var2p__Vmp-pn Var3p__Vmp-pm Var3p__Vmp-pf Var3p__Vmp-pn
+Var1s-y__Vmp-sm Var1s-y__Vmp-sf Var1s-y__Vmp-sn Var2s-y__Vmp-sm Var2s-y__Vmp-sf Var2s-y__Vmp-sn Var1p-y__Vmp-pm Var1p-y__Vmp-pf Var1p-y__Vmp-pn Var2p-y__Vmp-pm Var2p-y__Vmp-pf Var2p-y__Vmp-pn Var3p-y__Vmp-pm Var3p-y__Vmp-pf Var3p-y__Vmp-pn
