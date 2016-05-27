@@ -1,4 +1,5 @@
-#Single nouns
+
+#### Noun in nominative, accusative or instrumental case -> generate the remaining 2 cases ####
 Ncmsn Ncmsan Ncmsay Ncmsi
 Ncfsn Ncfsa Ncfsi
 Ncnsn Ncnsa Ncnsi
@@ -12,14 +13,14 @@ Npmsn Npmsan Npmsay Npmsi
 Npfsn Npfsa Npfsi
 Npnsn Npnsa Npnsi
 
-#Single adjectives
+#### Adjective in nominative, accusative or instrumental case -> generate all combinations of gender,number and [nominative, accusative, instrumental] case ####
 Agpfpay Agpfpiy Agpfpny Agpfsay Agpfsin Agpfsiy Agpfsny Agpmpay Agpmpiy Agpmpny Agpmsann Agpmsany Agpmsayn Agpmsayy Agpmsiy Agpmsnn Agpmsny Agpnpan Agpnpay Agpnpiy Agpnpny Agpnsay Agpnsiy Agpnsny
 Agcfpay Agcfpiy Agcfpny Agcfsay Agcfsiy Agcfsny Agcmpay Agcmpiy Agcmpny Agcmsany Agcmsayn Agcmsayy Agcmsiy Agcmsny Agcnpay Agcnpiy Agcnpny Agcnsay Agcnsiy Agcnsny
 Agsfpay Agsfpiy Agsfpny Agsfsay Agsfsiy Agsfsny Agsmpay Agsmpiy Agsmpny Agsmsany Agsmsayn Agsmsayy Agsmsgn Agsmsiy Agsmsny Agsnpay Agsnpiy Agsnpny Agsnsay Agsnsiy Agsnsny
 Aspfpay Aspfpiy Aspfpny Aspfsay Aspfsiy Aspfsny Aspmpay Aspmpiy Aspmpny Aspmsann Aspmsany Aspmsayy Aspmsdn Aspmsgn Aspmsiy Aspmsln Aspmsnn Aspmsvn Aspnpay Aspnpiy Aspnpny Aspnsay Aspnsdn Aspnsgn Aspnsiy Aspnsln Aspnsny
 Appfpay Appfpiy Appfpny Appfsay Appfsiy Appfsny Appmpay Appmpiy Appmpny Appmsann Appmsany Appmsayn Appmsayy Appmsdn Appmsgn Appmsiy Appmsln Appmsnn Appmsny Appmsvn Appnpay Appnpiy Appnpny Appnsay Appnsdn Appnsgn Appnsiy Appnsln Appnsny
 
-#adj-n #non-aggressive: For aggressive: add g,d,l
+#### adjective + noun in nominative, accusative or instrumental case -> generate the remaining 2 cases ####
 Agcmsny__Ncmsn Agcmsayy__Ncmsay Agcmsayn__Ncmsan Agcmsiy__Ncmsi #the y and n at the end only happens for msa
 Agsmsny__Ncmsn Agsmsayy__Ncmsay Agsmsayn__Ncmsan Agsmsiy__Ncmsi
 Agpmsny__Ncmsn Agpmsayy__Ncmsay Agpmsayn__Ncmsan Agpmsiy__Ncmsi
@@ -92,8 +93,7 @@ Agpnpnn__Ncnpn Agpnpan__Ncnpa Agpnpin__Ncnpi
 Aspnpnn__Ncnpn Aspnpan__Ncnpa Aspnpin__Ncnpi
 Appnpnn__Ncnpn Appnpan__Ncnpa Appnpin__Ncnpi
 
-
-#The same for adj,adj,n: still only non-aggressive
+#### adjective + adjective + noun in nominative, accusative or instrumental case -> generate the remaining 2 cases ####
 Agcmsny__Agcmsny__Ncmsn Agcmsayy__Agcmsayy__Ncmsay Agcmsayn__Agcmsayn__Ncmsan Agcmsiy__Agcmsiy__Ncmsi
 Agsmsny__Agsmsny__Ncmsn Agsmsayy__Agsmsayy__Ncmsay Agsmsayn__Agsmsayn__Ncmsan Agsmsiy__Agsmsiy__Ncmsi
 Agpmsny__Agpmsny__Ncmsn Agpmsayy__Agpmsayy__Ncmsay Agpmsayn__Agpmsayn__Ncmsan Agpmsiy__Agpmsiy__Ncmsi
@@ -166,7 +166,7 @@ Agpnpnn__Agpnpnn__Ncnpn Agpnpan__Agpnpan__Ncnpa Agpnpin__Agpnpin__Ncnpi
 Aspnpnn__Aspnpnn__Ncnpn Aspnpan__Aspnpan__Ncnpa Aspnpin__Aspnpin__Ncnpi
 Appnpnn__Appnpnn__Ncnpn Appnpan__Appnpan__Ncnpa Appnpin__Appnpin__Ncnpi
 
-#vlasnik|Ncmsn bara|Ncmsg #only non-aggressive
+#### noun in [nominative, accusative, instrumental ] case + noun in genitive case -> generate the remaining 2 cases for the first noun, keep the second one in genitive ####
 Ncfpn__Ncmsg Ncfpa__Ncmsg Ncfpi__Ncmsg
 Ncfpn__Ncfsg Ncfpa__Ncfsg Ncfpi__Ncfsg
 Ncfpn__Ncnsg Ncfpa__Ncnsg Ncfpi__Ncnsg
@@ -204,7 +204,7 @@ Ncnsn__Ncmpg Ncnsa__Ncmpg Ncnsi__Ncmpg
 Ncnsn__Ncfpg Ncnsa__Ncfpg Ncnsi__Ncfpg
 Ncnsn__Ncnpg Ncnsa__Ncnpg Ncnsi__Ncnpg
 
-#Ncfsg Cc Ncfsg -> they agree only in case and number (we change the case)
+#### noun in [nominative, accusative, instrumental ] case + conjuction + noun in [nominative, accusative, instrumental ] case -> generate the remaining 2 cases for the two nouns: they must agree ####
 Ncmpn__Cc__Ncfpn Ncmpa__Cc__Ncfpa Ncmpi__Cc__Ncfpi
 Ncfsn__Cc__Ncfsn Ncfsa__Cc__Ncfsa Ncfsi__Cc__Ncfsi
 Ncfsn__Cc__Ncmsn Ncfsa__Cc__Ncmsan Ncfsa__Cc__Ncmsay Ncfsi__Cc__Ncmsi
@@ -224,7 +224,7 @@ Ncnpn__Cc__Ncfpn Ncnpa__Cc__Ncfpa Ncnpi__Cc__Ncfpi
 Ncfsn__Cc__Ncnsn Ncfsa__Cc__Ncnsa Ncfsi__Cc__Ncnsi
 Ncfpn__Cc__Ncfpn Ncfpa__Cc__Ncfpa Ncfpi__Cc__Ncfpi
 
-#verbs: only timid at the moment
+#### verb in any number and person but 3rd person singular -> generate the remaining combinations of person/number but 3rd person singular ####
 Vmr1s Vmr2s Vmr1p Vmr2p Vmr3p
 Vmr1s-y Vmr2s-y Vmr1p-y Vmr2p-y Vmr3p-y
 Vma1p Vma1s Vma2p Vma2s Vma3p Vma3s
@@ -235,9 +235,7 @@ Vmm2p-y Vmm2s-y
 Vmp-pf Vmp-pm Vmp-pn Vmp-sf Vmp-sm Vmp-sn
 Vmp-pfy Vmp-pmy Vmp-pny Vmp-sfy Vmp-smy Vmp-sny
 
-#Vmr3s Ncfsa -> case is always acccusative, gender and number of noun can vary, as well as person and number of the verb (they don¡t need to agree).
-#we generate all possible combinations of (person and number of verb)
-#this has been done for timid verb combination
+#### verb in any number and person + noun in accusative case -> generate the remaining combinations of person/number but 3rd person singular, keep noun unchanged ####
 Vmr1s__Ncmsan Vmr2s__Ncmsan Vmr1p__Ncmsan Vmr2p__Ncmsan Vmr3p__Ncmsan
 Vmr1s-y__Ncmsan Vmr2s-y__Ncmsan Vmr1p-y__Ncmsan Vmr2p-y__Ncmsan Vmr3p-y__Ncmsan
 Vma1p__Ncmsan Vma1s__Ncmsan Vma2p__Ncmsan Vma2s__Ncmsan Vma3p__Ncmsan Vma3s__Ncmsan
@@ -302,7 +300,7 @@ Vmm2p-y__Ncnpa Vmm2s-y__Ncnpa
 Vmp-pf__Ncnpa Vmp-pm__Ncnpa Vmp-pn__Ncnpa Vmp-sf__Ncnpa Vmp-sm__Ncnpa Vmp-sn__Ncnpa
 Vmp-pfy__Ncnpa Vmp-pmy__Ncnpa Vmp-pny__Ncnpa Vmp-sfy__Ncnpa Vmp-smy__Ncnpa Vmp-sny__Ncnpa
 
-#Rgp Vmr3s -> change verbs as in verb list
+#### adverb + verb in any number and person but 3rd person singular -> generate the remaining combinations of person/number but 3rd person singular for verb, keep adverb ####
 Rgp__Vmr1s Rgp__Vmr2s Rgp__Vmr1p Rgp__Vmr2p Rgp__Vmr3p
 Rgp__Vmr1s-y Rgp__Vmr2s-y Rgp__Vmr1p-y Rgp__Vmr2p-y Rgp__Vmr3p-y
 Rgp__Vma1p Rgp__Vma1s Rgp__Vma2p Rgp__Vma2s Rgp__Vma3p Rgp__Vma3s
@@ -313,7 +311,7 @@ Rgp__Vmm2p-y Rgp__Vmm2s-y
 Rgp__Vmp-pf Rgp__Vmp-pm Rgp__Vmp-pn Rgp__Vmp-sf Rgp__Vmp-sm Rgp__Vmp-sn
 Rgp__Vmp-pfy Rgp__Vmp-pmy Rgp__Vmp-pny Rgp__Vmp-sfy Rgp__Vmp-smy Rgp__Vmp-sny
 
-#Px--sa Vmr3s -> change verbs as in verb list
+#### pronoun + verb in any number and person but 3rd person singular -> generate the remaining combinations of person/number but 3rd person singular for verb, keep pronoun ####
 Px--sa__Vmr1s Px--sa__Vmr2s Px--sa__Vmr1p Px--sa__Vmr2p Px--sa__Vmr3p
 Px--sa__Vmr1s-y Px--sa__Vmr2s-y Px--sa__Vmr1p-y Px--sa__Vmr2p-y Px--sa__Vmr3p-y
 Px--sa__Vma1p Px--sa__Vma1s Px--sa__Vma2p Px--sa__Vma2s Px--sa__Vma3p Px--sa__Vma3s
@@ -324,7 +322,7 @@ Px--sa__Vmm2p-y Px--sa__Vmm2s-y
 Px--sa__Vmp-pf Px--sa__Vmp-pm Px--sa__Vmp-pn Px--sa__Vmp-sf Px--sa__Vmp-sm Px--sa__Vmp-sn
 Px--sa__Vmp-pfy Px--sa__Vmp-pmy Px--sa__Vmp-pny Px--sa__Vmp-sfy Px--sa__Vmp-smy Px--sa__Vmp-sny
 
-#Vmr3s Px--sa
+####  verb in any number and person but 3rd person singular + pronoun -> generate the remaining combinations of person/number but 3rd person singular for verb, keep pronoun ####
 Vmr1s__Px--sa Vmr2s__Px--sa Vmr1p__Px--sa Vmr2p__Px--sa Vmr3p__Px--sa
 Vmr1s-y__Px--sa Vmr2s-y__Px--sa Vmr1p-y__Px--sa Vmr2p-y__Px--sa Vmr3p-y__Px--sa
 Vma1p__Px--sa Vma1s__Px--sa Vma2p__Px--sa Vma2s__Px--sa Vma3p__Px--sa Vma3s__Px--sa
@@ -335,10 +333,10 @@ Vmm2p-y__Px--sa Vmm2s-y__Px--sa
 Vmp-pf__Px--sa Vmp-pm__Px--sa Vmp-pn__Px--sa Vmp-sf__Px--sa Vmp-sm__Px--sa Vmp-sn__Px--sa
 Vmp-pfy__Px--sa Vmp-pmy__Px--sa Vmp-pny__Px--sa Vmp-sfy__Px--sa Vmp-smy__Px--sa Vmp-sny__Px--sa
 
-#Vmp-s[m]gender Var[3s](all the combinations of person and number) -> change gender of participle and person/number of auxiliary
+#### participle + auxiliary verb -> generate all combinations of person/number/gender ####
 Vmp-sm__Var1s Vmp-sf__Var1s Vmp-sn__Var1s Vmp-sm__Var2s Vmp-sf__Var2s Vmp-sn__Var2s Vmp-pm__Var1p Vmp-pf__Var1p Vmp-pn__Var1p Vmp-pm__Var2p Vmp-pf__Var2p Vmp-pn__Var2p Vmp-pm__Var3p Vmp-pf__Var3p Vmp-pn__Var3p
 Vmp-sm__Var1s-y Vmp-sf__Var1s-y Vmp-sn__Var1s-y Vmp-sm__Var2s-y Vmp-sf__Var2s-y Vmp-sn__Var2s-y Vmp-pm__Var1p-y Vmp-pf__Var1p-y Vmp-pn__Var1p-y Vmp-pm__Var2p-y Vmp-pf__Var2p-y Vmp-pn__Var2p-y Vmp-pm__Var3p-y Vmp-pf__Var3p-y Vmp-pn__Var3p-y
 
-#Var3s Vmp-sm _> (same as above)
+#### auxiliary verb + participle -> generate all combinations of person/number/gender ####
 Var1s__Vmp-sm Var1s__Vmp-sf Var1s__Vmp-sn Var2s__Vmp-sm Var2s__Vmp-sf Var2s__Vmp-sn Var1p__Vmp-pm Var1p__Vmp-pf Var1p__Vmp-pn Var2p__Vmp-pm Var2p__Vmp-pf Var2p__Vmp-pn Var3p__Vmp-pm Var3p__Vmp-pf Var3p__Vmp-pn
 Var1s-y__Vmp-sm Var1s-y__Vmp-sf Var1s-y__Vmp-sn Var2s-y__Vmp-sm Var2s-y__Vmp-sf Var2s-y__Vmp-sn Var1p-y__Vmp-pm Var1p-y__Vmp-pf Var1p-y__Vmp-pn Var2p-y__Vmp-pm Var2p-y__Vmp-pf Var2p-y__Vmp-pn Var3p-y__Vmp-pm Var3p-y__Vmp-pf Var3p-y__Vmp-pn
